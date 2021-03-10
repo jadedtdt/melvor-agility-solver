@@ -1,0 +1,181 @@
+﻿Set,Obstacle,Abbr,Level,Time (s),XP,GP,Passives,Passive Agility Bonus,Passive Agility Penalty,Agility Interval Modifier,GP Cost,SC Cost,Material Cost,Skill Reqs,XP/s,GP/s
+1,Cargo Net,1CN,1,4,8,8,None :(,0,0,0,10000,N/A,N/A,N/A,2.27,2
+1,Rope Swing,1RS,1,4,6,10,None :(,0,0,0,10000,N/A,N/A,N/A,1.7,2.5
+1,Rope Climb,1RC,1,6,7,5,+2% Thieving Mastery Exp,0,0,0,10000,N/A,N/A,N/A,1.33,0.83
+2,Rope Jump,2RJ,10,7,13,50,None :(,0,0,0,50000,N/A,N/A,N/A,2.11,7.14
+2,Monkey Bars,2MB,10,3,7,34,-4% Firemaking Interval,0,0,0,50000,N/A,250 Oak Logs,15 Firemaking,2.65,11.33
+2,Balance Beam,2BB,10,4,11,43,+2% Agility Skill XP,0.02,0,0,50000,N/A,N/A,N/A,3.13,10.75
+3,Balance Seesaw,3BS,20,5,24,115,"+2% Agility Skill XP
++2% Agility Mastery XP",0.02,0,0,150000,N/A,N/A,N/A,5.45,23
+3,Pipe Climb,3PC,20,9,30,84,"+3% Melee Strength Bonus
++3% Melee Evasion",0,0,0,150000,1000,300 Bronze Bars,"10 Strength
+10 Defense",3.79,9.33
+3,Pipe Balance,3PB,20,5,24,120,"+10 Mining Node HP
++3% Chance to Preserve Resources in Skills",0,0,0,150000,N/A,"300 Iron Ore
+300 Tin Ore",20 Mining,5.45,24
+3,Pit Jump,3PJ,20,4,38,30,"+1% Global Skill XP
+-4% Agility Skill XP",0.01,-0.04,0,150000,N/A,"300 Raw Herring
+300 Raw Salmon",N/A,10.8,7.5
+3,Stepping Stones,3SS,20,9,13,79,"+3% Firemaking Skill XP
+-6% Woodcutting Interval",0,0,0,150000,N/A,"300 Willow Logs
+300 Teak Logs","30 Woodcutting
+30 Firemaking",1.64,8.78
+4,Coal Stones,4CS,30,6,22,51,"+3% Chance to Preserve Resources in Skills
++20% GP from Thieving
++10% Food Healing Value
+-4% Global Skill XP",0,-0.04,0,250000,N/A,"100 Tomato Seeds
+500 Salmon","20 Thieving
+20 Cooking",4.17,8.5
+4,Mud Crawl,4MC,30,8,35,176,"+3% Chance to Preserve Resources in Herblore
++2% Herblore Skill XP 
++2% Herblore Mastery XP
+-10% Farming Yield",0,0,0,250000,N/A,"250 Garum Herb
+250 Sourweed Herb
+250 Manatlyme Herb","25 Herblore
+25 Farming",4.97,22
+4,Mud Dive,4MD,30,8,44,83,"+2% Melee Strength Bonus
++5% Melee Accuracy Bonus
++20 Maximum Hitpoints
+-4% Damage Reduction",0,0,0,250000,5000,500 Mithril Bars,"20 Attack
+20 Strength",6.25,10.38
+4,Cave Climb,4CC,30,7,37,121,"+5% Ammo Preservation
++5% Rune Preservation
++5% Melee Strength Bonus
+-40 Maximum Hitpoints",0,0,0,250000,5000,"500 Air Runes
+500 Earth Runes
+250 Iron Bars","10 Strength
+10 Ranged
+10 Magic",6.01,17.29
+4,Gap Jump,4GJ,30,6,49,57,None :(,0,0,0,250000,N/A,N/A,N/A,9.28,9.5
+5,Rock Climb,5RC,40,4,36,216,"+5% Chance to Double Items in Woodcutting 
++5% Chance to Double Items in Fishing 
++5% Chance to Double Items in Mining 
++5% Chance to Double Items in Thieving
+-10% Chance to Preserve Resources in Skills",0,0,0,500000,N/A,"500 Teak Logs
+500 Coal Ore
+500 Onion Seeds","30 Woodcutting
+30 Fishing
+30 Mining
+30 Thieving",10.23,54
+5,Cliff Climb,5CC,40,13,66,103,"+10% Slayer Coins
++5% Damage to Slayer Tasks
++10% Slayer Task Length/Qty
+-10% Slayer Skill XP
+-20% Flat Slayer Area Affect Negation",0,0,0,500000,20000,1000 Mithril Bars,20 Slayer,5.77,7.92
+5,Cliff Balance,5CB,40,4,42,147,"+5% Melee Accuracy Bonus
++5% Ranged Accuracy Bonus
++5% Magic Accuracy Bonus
++20 Maximum Hitpoints
+-2 Flat Prayer Cost Reduction",0,0,0,500000,20000,"500 Mithril Ore
+500 Coal Ore
+1000 Rune Essence","20 Attack
+20 Ranged
+20 Magic",11.93,36.75
+5,Mountain Climb,5MC,40,10,62,371,"+15% GP from Agility
+-12% Agility Interval
+-8% Agility Skill XP
+-2% Agility Mastery XP",0,-0.08,-0.12,500000,N/A,1000 Bones,N/A,7.05,37.1
+5,Tree Climb,5TC,40,5,45,114,"+3% Global Skill XP
++2% Global Mastery XP
+-10% Chance to Preserve Resources in Skills
+-10% Ammo Preservation
+-10% Rune Preservation",0.03,0,0,500000,N/A,"1000 Mahogany Logs
+2000 Iron Arrows
+2000 Chaos Runes",60 Firemaking,10.23,22.8
+6,Tree Hop,6TH,50,11,78,1520,"+5% Chance to Preserve Resources in Skills
++5% Ammo Preservation
++5% Rune Preservation",0,0,0,1000000,N/A,"2,500 Steel Arrows
+2,500 Nature Runes","40 Woodcutting
+40 Ranged
+40 Magic",8.06,138.18
+6,Tree Balance,6TB,50,13,68,1358,"-12% Agility Interval
+-4% Global Skill XP",0,-0.04,-0.12,1000000,N/A,N/A,N/A,5.94,104.46
+6,Rocky Waters,6RW,50,11,70,1554,+50 Maximum Hitpoints,0,0,0,1000000,50000,"3,000 Lobster",50 Hitpoints,7.23,141.27
+6,Lake Swim,6LS,50,13,63,1401,"+3% Damage to All Monsters
++1% Damage Reduction",0,0,0,1000000,50000,"2,500 Silver Bar","50 Strength
+50 Prayer",5.51,107.77
+6,Raft Drifting,6RD,50,7,92,664,+10% Farming Yield,0,0,0,1000000,N/A,"3,000 Watermelon",60 Farming,14.94,94.86
+7,Spike Trap,7ST,60,9,100,1722,"-40 Maximum Hitpoints
+-2% Damage Reduction",0,0,0,2500000,N/A,N/A,N/A,12.63,191.33
+7,Heat Trap,7HT,60,5,155,2283,"-10% Damage To All Monsters
+-10% Auto Eat Efficiency",0,0,0,2500000,N/A,N/A,N/A,35.23,456.6
+7,Boulder Trap,7BT,60,13,107,2089,-20% Chance to Preserve Resources in Skills,0,0,0,2500000,N/A,N/A,N/A,9.35,160.69
+7,Water Trap,7WT,60,8,61,2782,"-6% Global Skill XP
+-6% Global Mastery XP",0,-0.06,0,2500000,N/A,N/A,N/A,8.66,347.75
+7,Freezing Trap,7FT,60,8,90,1608,"-30% Rune Preservation
+-30% Ammo Preservation
+-16% Melee Accuracy Bonus
+-16% Ranged Accuracy Bonus
+-16% Magic Accuracy Bonus",0,0,0,2500000,N/A,N/A,N/A,12.78,201
+8,Pipe Crawl,8PC,70,11,180,2004,"+8% Damage to Slayer Area Monsters
+-10% Slayer Coins Reward",0,0,0,5000000,150000,"4,000 Adamantite Bars",70 Slayer,18.6,182.18
+8,Raft Building,8RB,70,14,144,3274,"+2% Damage to All Monsters
++20 Maximum Hitpoints",0,0,0,5000000,150000,"4,000 Swordfish","70 Strength
+70 Hitpoints",11.69,233.86
+8,Spike Jump,8SJ,70,8,145,2877,"+5% Damage to Dungeon Monsters
++5% Double Loot from Combat",0,0,0,5000000,150000,"1,840 Emerald","70 Defense
+70 Prayer",20.6,359.63
+8,Tree Hang,8TH,70,8,205,2950,"+5% Global Mastery XP
+-6% Global Skill XP",0,-0.06,0,5000000,N/A,"5,000 Barentoe Herb","80 Woodcutting
+80 Firemaking",29.12,368.75
+8,A Lovely Jog,8ALJ,70,12,106,1535,"+5 Global Skill XP
+-6% Global Mastery XP",0.05,0,0,5000000,N/A,"5,000 Magic Logs","70 Firemaking
+70 Fishing
+70 Mining",10.04,127.92
+9,Lava Jump,9LJ,80,5,160,4361,"-0.3s Monster Respawn Timer
+-6% Damage Reduction
+-6% Global Mastery XP
+-6% Auto Eat Efficiency",0,0,0,10000000,250000,"5,000 Shark
+5,000 Silver Bars
+5,000 Redwood Logs",80 Prayer,36.36,872.2
+9,Water Jump,9WJ,80,5,162,1110,"+2% Global Master XP
++3% Melee Strength
++3% Ranged Strength
++3% Magic Damage",0,0,0,10000000,250000,"5,000 Rune Arrows
+5,000 Death Runes
+5,000 Gold Bars","70 Strength
+70 Magic
+70 Ranged",36.82,222
+9,Ice Jump,9IJ,80,6,315,4873,"+10% Resource Preservation
++10% Food Heal
++5% Global Double Items
++20 Maximum Hitpoints
++10 Mining Node HP
++10% Slayer Coins Reward
++5% Slayer Skill XP",0,0,0,10000000,N/A,"5,000 Cave Fish
+5,000 Coal Ore
+2,000 Diamonds","60 Cooking
+60 Mining
+60 Slayer
+60 Thieving",59.66,812.17
+9,Cave Maze,9CM,80,8,296,755,"+10% Resource Preservation
++10% Ammo Preservation
++10% Rune Preservation
++1 Flat Prayer Point Reduction",0,0,0,10000000,N/A,"4,800 Dragon Bones","70 Prayer
+70 Ranged
+70 Magic",42.05,94.38
+9,Frozen Lake Crossing,9FLC,80,15,138,1358,"+3% Damage to Monsters
++10% Auto Eat Efficiency",0,0,0,10000000,250000,"7,500 Adamantite Bars","70 Strength
+70 Hitpoints",10.45,90.53
+10,Waterfall,10W,90,23,567,9533,None?,0,0,0,20000000,N/A,N/A,N/A,28.01,414.48
+10,Lava Waterfall Dodge,10LWD,90,15,361,3644,"+10% Resource Preservation
++10% Ammo Preservation
++10% Rune Preservation
++10% Prayer Points Preservation
++10% Slayer Coins Reward",0,0,0,20000000,N/A,"10,000 Magic Bones
+10,000 Dragon Arrows
+10,000 Ancient Runes","95 Firemaking
+95 Ranged
+95 Magic
+90 Slayer
+80 Prayer",27.35,242.93
+10,Boulder Move,10BM,90,14,560,4072,+8% Global Mastery XP,0,0,0,20000000,N/A,"10,000 Dragon Bars
+10,000 Redwood Logs","99 Firemaking
+99 Woodcutting",45.45,290.86
+10,Dragon Fight,10DF,90,20,539,8969,"-0.3s Monster Respawn Timer
+-16% Auto Eat Efficiency",0,0,0,20000000,300000,"10,000 Whales","95 Attack
+95 Strength
+95 Defense
+95 Prayer",30.63,448.45
+10,Ocean Rafting,10OR,90,23,343,4225,"+5% Damage to Monsters
++5% Auto Eat Efficiency",0,0,0,20000000,300000,"30,000 Carrots",99 Hitpoints,16.95,183.7

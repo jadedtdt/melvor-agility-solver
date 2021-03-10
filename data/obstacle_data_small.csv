@@ -1,0 +1,84 @@
+﻿Set,Obstacle,Abbr,Level,Time (s),XP,GP,Passives,Passive Agility Bonus,Passive Agility Penalty,Agility Interval Modifier,GP Cost,SC Cost,Material Cost,Skill Reqs,XP/s,GP/s
+1,Cargo Net,1CN,1,4,8,8,None :(,0,0,0,10000,N/A,N/A,N/A,2.27,2
+1,Rope Swing,1RS,1,4,6,10,None :(,0,0,0,10000,N/A,N/A,N/A,1.7,2.5
+1,Rope Climb,1RC,1,6,7,5,+2% Thieving Mastery Exp,0,0,0,10000,N/A,N/A,N/A,1.33,0.83
+2,Rope Jump,2RJ,10,7,13,50,None :(,0,0,0,50000,N/A,N/A,N/A,2.11,7.14
+2,Monkey Bars,2MB,10,3,7,34,-4% Firemaking Interval,0,0,0,50000,N/A,250 Oak Logs,15 Firemaking,2.65,11.33
+2,Balance Beam,2BB,10,4,11,43,+2% Agility Skill XP,0.02,0,0,50000,N/A,N/A,N/A,3.13,10.75
+3,Balance Seesaw,3BS,20,5,24,115,"+2% Agility Skill XP
++2% Agility Mastery XP",0.02,0,0,150000,N/A,N/A,N/A,5.45,23
+3,Pipe Climb,3PC,20,9,30,84,"+3% Melee Strength Bonus
++3% Melee Evasion",0,0,0,150000,1000,300 Bronze Bars,"10 Strength
+10 Defense",3.79,9.33
+3,Pipe Balance,3PB,20,5,24,120,"+10 Mining Node HP
++3% Chance to Preserve Resources in Skills",0,0,0,150000,N/A,"300 Iron Ore
+300 Tin Ore",20 Mining,5.45,24
+3,Pit Jump,3PJ,20,4,38,30,"+1% Global Skill XP
+-4% Agility Skill XP",0.01,-0.04,0,150000,N/A,"300 Raw Herring
+300 Raw Salmon",N/A,10.8,7.5
+3,Stepping Stones,3SS,20,9,13,79,"+3% Firemaking Skill XP
+-6% Woodcutting Interval",0,0,0,150000,N/A,"300 Willow Logs
+300 Teak Logs","30 Woodcutting
+30 Firemaking",1.64,8.78
+4,Coal Stones,4CS,30,6,22,51,"+3% Chance to Preserve Resources in Skills
++20% GP from Thieving
++10% Food Healing Value
+-4% Global Skill XP",0,-0.04,0,250000,N/A,"100 Tomato Seeds
+500 Salmon","20 Thieving
+20 Cooking",4.17,8.5
+4,Mud Crawl,4MC,30,8,35,176,"+3% Chance to Preserve Resources in Herblore
++2% Herblore Skill XP 
++2% Herblore Mastery XP
+-10% Farming Yield",0,0,0,250000,N/A,"250 Garum Herb
+250 Sourweed Herb
+250 Manatlyme Herb","25 Herblore
+25 Farming",4.97,22
+4,Mud Dive,4MD,30,8,44,83,"+2% Melee Strength Bonus
++5% Melee Accuracy Bonus
++20 Maximum Hitpoints
+-4% Damage Reduction",0,0,0,250000,5000,500 Mithril Bars,"20 Attack
+20 Strength",6.25,10.38
+4,Cave Climb,4CC,30,7,37,121,"+5% Ammo Preservation
++5% Rune Preservation
++5% Melee Strength Bonus
+-40 Maximum Hitpoints",0,0,0,250000,5000,"500 Air Runes
+500 Earth Runes
+250 Iron Bars","10 Strength
+10 Ranged
+10 Magic",6.01,17.29
+4,Gap Jump,4GJ,30,6,49,57,None :(,0,0,0,250000,N/A,N/A,N/A,9.28,9.5
+5,Rock Climb,5RC,40,4,36,216,"+5% Chance to Double Items in Woodcutting 
++5% Chance to Double Items in Fishing 
++5% Chance to Double Items in Mining 
++5% Chance to Double Items in Thieving
+-10% Chance to Preserve Resources in Skills",0,0,0,500000,N/A,"500 Teak Logs
+500 Coal Ore
+500 Onion Seeds","30 Woodcutting
+30 Fishing
+30 Mining
+30 Thieving",10.23,54
+5,Cliff Climb,5CC,40,13,66,103,"+10% Slayer Coins
++5% Damage to Slayer Tasks
++10% Slayer Task Length/Qty
+-10% Slayer Skill XP
+-20% Flat Slayer Area Affect Negation",0,0,0,500000,20000,1000 Mithril Bars,20 Slayer,5.77,7.92
+5,Cliff Balance,5CB,40,4,42,147,"+5% Melee Accuracy Bonus
++5% Ranged Accuracy Bonus
++5% Magic Accuracy Bonus
++20 Maximum Hitpoints
+-2 Flat Prayer Cost Reduction",0,0,0,500000,20000,"500 Mithril Ore
+500 Coal Ore
+1000 Rune Essence","20 Attack
+20 Ranged
+20 Magic",11.93,36.75
+5,Mountain Climb,5MC,40,10,62,371,"+15% GP from Agility
+-12% Agility Interval
+-8% Agility Skill XP
+-2% Agility Mastery XP",0,-0.08,-0.12,500000,N/A,1000 Bones,N/A,7.05,37.1
+5,Tree Climb,5TC,40,5,45,114,"+3% Global Skill XP
++2% Global Mastery XP
+-10% Chance to Preserve Resources in Skills
+-10% Ammo Preservation
+-10% Rune Preservation",0.03,0,0,500000,N/A,"1000 Mahogany Logs
+2000 Iron Arrows
+2000 Chaos Runes",60 Firemaking,10.23,22.8
